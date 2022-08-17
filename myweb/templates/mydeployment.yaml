@@ -18,7 +18,7 @@ spec:
         app: mydeploy
     spec:
       containers:
-      - image: cankush625/webpage
+      - image: vikas24775/webpage
         name: webpage
         resources: {}
 status: {}
