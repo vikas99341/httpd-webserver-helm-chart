@@ -3,11 +3,11 @@ entries:
   myweb:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2022-10-20T02:53:17.777576955Z"
+    created: "2022-10-21T13:49:40.894225713Z"
     description: This is the chart for httpd
-    digest: 7ee21a14123761a2894316c35d90e939da5f14d120d597861cc4e3d23e5d3097
+    digest: f5a41b50932b1ab3a981de2fa2dd9f5baa7ff0fbd7d435a1020eff774bcc0696
     name: myweb
     urls:
     - myweb-0.0.5.tgz
     version: 0.0.5
-generated: "2022-10-20T02:53:17.776898423Z"
+generated: "2022-10-21T13:49:40.88115815Z"
